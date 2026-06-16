@@ -1,0 +1,1 @@
+Utiliza apenas módulos nativos (socket, threading) para evitar dependências externas pesadas.
